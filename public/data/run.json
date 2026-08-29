@@ -18,18 +18,18 @@
     },
     "Web discovery": {
       "ok": true,
-      "count": 7,
+      "count": 9,
       "requests": 1,
       "cache_used": false,
       "source_kind": "discovery"
     }
   },
-  "fetched": 282,
+  "fetched": 284,
   "rejected_irrelevant": 275,
   "rejected_expired": 0,
   "deduplicated": 0,
-  "published": 7,
+  "published": 9,
   "stale_data": false,
-  "generated_at": "2026-08-29T16:57:09.336465+00:00",
+  "generated_at": "2026-08-29T16:58:42.842017+00:00",
   "pipeline": "v2"
 }
