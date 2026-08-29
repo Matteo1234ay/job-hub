@@ -1,1 +1,33 @@
-{"sources":{},"processed":0}
+{
+  "sources": {
+    "Arbeitnow": {
+      "ok": true,
+      "count": 175,
+      "requests": 1,
+      "cache_used": false,
+      "source_kind": "aggregator"
+    },
+    "RemoteOK": {
+      "ok": true,
+      "count": 100,
+      "requests": 1,
+      "cache_used": false,
+      "source_kind": "aggregator"
+    },
+    "Web discovery": {
+      "ok": true,
+      "count": 7,
+      "requests": 1,
+      "cache_used": false,
+      "source_kind": "discovery"
+    }
+  },
+  "fetched": 282,
+  "rejected_irrelevant": 274,
+  "rejected_expired": 0,
+  "deduplicated": 0,
+  "published": 8,
+  "stale_data": false,
+  "generated_at": "2026-08-29T16:54:19.503865+00:00",
+  "pipeline": "v2"
+}
