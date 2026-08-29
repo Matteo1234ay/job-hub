@@ -24,15 +24,21 @@ def _hits(text, terms):
 
 
 def classify_geography(job):
-    loc = f"{job.get('location','')} {job.get('work_mode','')}".lower()
-    if any(x in loc for x in ('torino','turin','collegno','rivoli')):
+    location = str(job.get('location') or '').strip().lower()
+    mode = str(job.get('work_mode') or '').strip().lower()
+    combined = f"{location} {mode}".strip()
+    if any(x in location for x in ('torino','turin','collegno','rivoli')):
         return 'LOCAL_STRONG'
-    if any(x in loc for x in NEARBY):
+    if any(x in location for x in NEARBY):
         return 'LOCAL_NEARBY'
-    if 'remote' in loc or 'remoto' in loc:
-        if not loc.strip() or any(x in loc for x in ('italy','italia','remote','remoto')):
+    remote_signal = any(x in combined for x in ('remote','remoto'))
+    if remote_signal:
+        generic_remote = (not location) or location in ('remote','remoto','worldwide','anywhere','global')
+        italy_or_europe = any(x in location for x in ('italy','italia','europe','eu','emea','european union'))
+        if generic_remote or italy_or_europe:
             return 'REMOTE_ITALY'
-    if not loc.strip():
+        return 'OUTSIDE_SCOPE'
+    if not combined:
         return 'UNKNOWN'
     return 'OUTSIDE_SCOPE'
 
