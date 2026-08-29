@@ -81,6 +81,8 @@ def test_mandatory_senior_requirement_is_hard_blocker():
     ("Collegno", "LOCAL_STRONG"),
     ("Rivoli", "LOCAL_STRONG"),
     ("Moncalieri", "LOCAL_NEARBY"),
+    ("Avigliana", "LOCAL_NEARBY"),
+    ("Rosta", "LOCAL_NEARBY"),
     ("Remote - Italy", "REMOTE_ITALY"),
     ("Milano onsite", "OUTSIDE_SCOPE"),
 ])
