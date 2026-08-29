@@ -43,6 +43,18 @@ def _write_cache(path, jobs, now):
     Path(path).write_text(json.dumps({'saved_at':now.isoformat(),'jobs':jobs},ensure_ascii=False,indent=2))
 
 
+def _cache_is_fresh(cached, now, ttl_hours):
+    if not cached or not cached.get('saved_at') or ttl_hours <= 0:
+        return False
+    try:
+        saved=datetime.fromisoformat(str(cached['saved_at']).replace('Z','+00:00'))
+        if saved.tzinfo is None: saved=saved.replace(tzinfo=timezone.utc)
+        age=(now-saved).total_seconds()
+        return 0 <= age < ttl_hours*3600
+    except Exception:
+        return False
+
+
 def _status_code(exc):
     code=getattr(exc,'status_code',None)
     if code: return code
@@ -53,6 +65,9 @@ def _status_code(exc):
 def fetch_with_resilience(adapter, cache_dir, now=None):
     now=now or datetime.now(timezone.utc)
     path=_cache_path(cache_dir,adapter.name)
+    cached=_read_cache(path)
+    if adapter.network and _cache_is_fresh(cached,now,adapter.cache_ttl_hours):
+        return cached['jobs'],{'ok':True,'count':len(cached['jobs']),'requests':0,'cache_used':True,'cache_fresh':True,'source_kind':adapter.source_kind}
     requests_made=0
     last_error=None
     attempts=min(adapter.max_requests_per_run, adapter.retry_count+1)
@@ -71,7 +86,7 @@ def fetch_with_resilience(adapter, cache_dir, now=None):
                 time.sleep(adapter.backoff_seconds*(2**attempt))
     cached=_read_cache(path)
     if cached is not None:
-        return cached['jobs'],{'ok':False,'count':len(cached['jobs']),'requests':requests_made,'cache_used':True,'error':type(last_error).__name__ if last_error else 'Unavailable','source_kind':adapter.source_kind}
+        return cached['jobs'],{'ok':False,'count':len(cached['jobs']),'requests':requests_made,'cache_used':True,'cache_fresh':False,'error':type(last_error).__name__ if last_error else 'Unavailable','source_kind':adapter.source_kind}
     return [],{'ok':False,'count':0,'requests':requests_made,'cache_used':False,'error':type(last_error).__name__ if last_error else 'Unavailable','source_kind':adapter.source_kind}
 
 
