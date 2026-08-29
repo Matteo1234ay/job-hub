@@ -1,5 +1,11 @@
 name: Daily jobs
 on:
+  push:
+    paths:
+      - 'public/data/discovery.json'
+      - 'config/profile.json'
+      - 'config/sources.json'
+      - 'src/jobhub/**'
   workflow_dispatch:
   schedule:
     - cron: '15 6 * * *'
