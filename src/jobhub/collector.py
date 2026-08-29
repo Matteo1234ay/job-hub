@@ -21,12 +21,17 @@ def collect_jobs(fetchers,profile,existing=None):
     return jobs,run
 
 
+def _is_priority_company(company, profile):
+    name=' '.join(str(company or '').lower().split())
+    return any(term.strip().lower() in name for term in profile.get('priority_companies',[]) if str(term).strip())
+
+
 def collect_jobs_v2(adapters, profile, previous_jobs=None, cache_dir=None, now=None):
     previous_jobs=list(previous_jobs or [])
     now=now or datetime.now(timezone.utc)
     cache_dir=Path(cache_dir or '.cache/jobhub')
     candidates=[]
-    run={'sources':{},'fetched':0,'rejected_irrelevant':0,'rejected_expired':0,'deduplicated':0,'published':0,'stale_data':False}
+    run={'sources':{},'fetched':0,'rejected_irrelevant':0,'rejected_expired':0,'deduplicated':0,'published':0,'stale_data':False,'priority_kept':0}
     any_network_source_ok=False
     for adapter in adapters:
         if not isinstance(adapter,SourceAdapter):
@@ -42,11 +47,22 @@ def collect_jobs_v2(adapters, profile, previous_jobs=None, cache_dir=None, now=N
             j['source_attribution']={'name':adapter.name,'url':attribution_url}
             classified=classify_job(j,profile)
             score,label,why,gaps,blockers=score_job_v2(classified,profile)
+            priority_company=_is_priority_company(j.get('company'),profile)
             classified.update(score=score,match_label=label,why=why,gaps=gaps,blockers=blockers)
             checked=verify_job(classified)
             if checked.get('verification')=='SCARTATO':
                 run['rejected_expired']+=1; continue
-            if label=='NON_PERTINENTE':
+            if priority_company:
+                if checked.get('match_label')=='NON_PERTINENTE' or checked.get('score',0)<60:
+                    checked['score']=max(60,checked.get('score',0))
+                    checked['match_label']='DA_VALUTARE'
+                reasons=list(checked.get('why') or [])
+                priority_reason='+ azienda prioritaria: Nam Studio'
+                if priority_reason not in reasons:
+                    reasons.insert(0,priority_reason)
+                checked['why']=reasons
+                run['priority_kept']+=1
+            elif label=='NON_PERTINENTE':
                 run['rejected_irrelevant']+=1; continue
             candidates.append(checked)
     if not any_network_source_ok and not candidates and previous_jobs:
