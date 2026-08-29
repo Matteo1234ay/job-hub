@@ -30,6 +30,7 @@
   "deduplicated": 0,
   "published": 9,
   "stale_data": false,
-  "generated_at": "2026-08-29T16:58:42.842017+00:00",
+  "priority_kept": 2,
+  "generated_at": "2026-08-29T18:36:35.617358+00:00",
   "pipeline": "v2"
 }
