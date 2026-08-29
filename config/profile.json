@@ -1,1 +1,56 @@
-{"keywords":["social media","content creator","content","video","video editing","canva","figma","branding","community","instagram","tiktok","digital marketing"],"negative":["senior director","head of","5+ years","sales representative","seo specialist","sem specialist"]}
+{
+  "role_terms": [
+    "social media manager",
+    "social media specialist",
+    "social media coordinator",
+    "community manager",
+    "content creator",
+    "digital content creator",
+    "social content creator",
+    "content specialist",
+    "content marketing",
+    "video editor",
+    "social video editor",
+    "videomaker",
+    "video maker",
+    "video content creator",
+    "creative content"
+  ],
+  "task_terms": [
+    "piano editoriale",
+    "editorial plan",
+    "strategia social",
+    "social strategy",
+    "creazione contenuti",
+    "content creation",
+    "content ideation",
+    "copywriting",
+    "riprese",
+    "shooting",
+    "video editing",
+    "montaggio video",
+    "reels",
+    "short-form",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "community management",
+    "analytics",
+    "performance analysis",
+    "storytelling",
+    "organic growth",
+    "branding"
+  ],
+  "tool_terms": [
+    "davinci",
+    "premiere",
+    "after effects",
+    "capcut",
+    "canva",
+    "figma",
+    "meta business suite",
+    "analytics"
+  ],
+  "keywords": ["social media","content creator","content","video","video editing","canva","figma","branding","community","instagram","tiktok","digital marketing"],
+  "negative": ["senior director","head of","5+ years","sales representative","seo specialist","sem specialist"]
+}
