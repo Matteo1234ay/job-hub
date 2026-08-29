@@ -27,13 +27,13 @@ def collect_jobs_v2(adapters, profile, previous_jobs=None, cache_dir=None, now=N
     cache_dir=Path(cache_dir or '.cache/jobhub')
     candidates=[]
     run={'sources':{},'fetched':0,'rejected_irrelevant':0,'rejected_expired':0,'deduplicated':0,'published':0,'stale_data':False}
-    any_source_ok=False
+    any_network_source_ok=False
     for adapter in adapters:
         if not isinstance(adapter,SourceAdapter):
             raise TypeError('collect_jobs_v2 requires SourceAdapter instances')
         raw,meta=fetch_with_resilience(adapter,cache_dir,now=now)
         run['sources'][adapter.name]=meta
-        any_source_ok = any_source_ok or bool(meta.get('ok'))
+        any_network_source_ok = any_network_source_ok or bool(adapter.network and meta.get('ok'))
         run['fetched'] += len(raw)
         for item in raw:
             j=normalize_job(item,adapter.name)
@@ -49,7 +49,7 @@ def collect_jobs_v2(adapters, profile, previous_jobs=None, cache_dir=None, now=N
             if label=='NON_PERTINENTE':
                 run['rejected_irrelevant']+=1; continue
             candidates.append(checked)
-    if not any_source_ok and not candidates and previous_jobs:
+    if not any_network_source_ok and not candidates and previous_jobs:
         run['stale_data']=True; run['published']=len(previous_jobs)
         return previous_jobs,run
     before=len(candidates)
