@@ -61,7 +61,7 @@ def collect_jobs_v2(adapters, profile, previous_jobs=None, cache_dir=None, now=N
         prev=prev_by_fp.get(fingerprint(j),{})
         j['first_seen_at']=prev.get('first_seen_at') or ts
         j['last_seen_at']=ts
-        j['canonical_source']=j.get('source_attribution',{}).get('url') or j.get('url')
+        j['canonical_source']=j.get('url') or j.get('source_attribution',{}).get('url')
     jobs.sort(key=lambda x:(x.get('match_label')=='MATCH_FORTE',x.get('score',0)),reverse=True)
     run['published']=len(jobs)
     return jobs,run
