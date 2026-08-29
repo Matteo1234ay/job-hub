@@ -132,6 +132,21 @@ def test_total_source_failure_preserves_previous_dataset(tmp_path):
     assert run["stale_data"] is True
 
 
+def test_empty_local_discovery_does_not_erase_previous_when_all_network_sources_fail(tmp_path):
+    previous = [job("Content Creator", "video editing reels")]
+    def bad():
+        raise TimeoutError("network")
+    def empty_discovery():
+        return []
+    adapters = [
+        SourceAdapter("network", bad, retry_count=0, network=True),
+        SourceAdapter("discovery", empty_discovery, retry_count=0, network=False, source_kind="discovery"),
+    ]
+    jobs, run = collect_jobs_v2(adapters, PROFILE, previous_jobs=previous, cache_dir=tmp_path)
+    assert jobs == previous
+    assert run["stale_data"] is True
+
+
 def test_privacy_guard_rejects_sensitive_v2_fields():
     safe = sanitize_public_job({**job("Content Creator", "video"), "match_label":"MATCH_FORTE", "first_seen_at":"2026-08-29", "source_attribution":{"name":"Acme","url":"https://acme.example"}})
     assert "match_label" in safe and "source_attribution" in safe
