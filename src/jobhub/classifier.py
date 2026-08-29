@@ -12,7 +12,7 @@ DEFAULT_TASK_TERMS = (
 )
 DEFAULT_TOOL_TERMS = ('davinci','premiere','after effects','capcut','canva','figma','meta business suite','analytics')
 ADJACENT_TITLE_TERMS = ('communication specialist','digital marketing specialist','employer branding','junior creative','creative content','communication')
-NEARBY = ('moncalieri','grugliasco','venaria','nichelino','settimo torinese','orbassano','beinasco','alpignano','pianezza','san mauro','chieri','rivalta')
+NEARBY = ('moncalieri','grugliasco','venaria','nichelino','settimo torinese','orbassano','beinasco','alpignano','pianezza','san mauro','chieri','rivalta','rosta','avigliana')
 SALES_TERMS = ('cold calling','outbound sales','lead generation','sales target','sales targets','account closing','business development','commerciale','vendita','sales representative')
 SEO_TERMS = ('seo specialist','sem specialist','ppc specialist','paid acquisition','google ads specialist','performance marketing')
 IT_TERMS = ('software engineer','backend developer','frontend developer','data engineer','devops','cybersecurity')
