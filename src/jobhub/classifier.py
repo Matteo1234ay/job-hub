@@ -38,7 +38,7 @@ def classify_geography(job):
 
 
 def _seniority(text, title):
-    junior = any(x in text for x in ('junior','entry level','entry-level','0-2 years','0–2 years','1-2 years','1–2 years','1-3 years','1–3 years'))
+    junior = any(x in text for x in ('junior','tirocinante','stage','intern','internship','apprendistato','entry level','entry-level','0-2 years','0–2 years','1-2 years','1–2 years','1-3 years','1–3 years'))
     title_senior = any(x in title for x in ('senior','lead','head of','director','responsabile'))
     years = [int(x) for x in re.findall(r'\b(\d{1,2})\s*\+?\s*(?:years|anni)', text)]
     mandatory_words = any(x in text for x in ('mandatory','minimum','required','must have','obbligatori','obbligatorio','minimo'))
@@ -65,6 +65,7 @@ def classify_job(job, profile):
     geo_class = classify_geography(job)
     seniority, junior = _seniority(text, title)
     blockers = []
+
     sales_hits = _hits(text, SALES_TERMS)
     seo_hits = _hits(text, SEO_TERMS)
     it_hits = _hits(text, IT_TERMS)
@@ -80,6 +81,7 @@ def classify_job(job, profile):
         blockers.append('Fuori area Torino e non remoto Italia')
     if _hits(text, CLOSED_UNPAID):
         blockers.append('Opportunità non retribuita/volontaria')
+
     if role_hits:
         role_family = 'DIRECT'
     elif adjacent_hits and len(task_hits) >= 2:
@@ -88,7 +90,17 @@ def classify_job(job, profile):
         role_family = 'TASK_MATCH'
     else:
         role_family = 'WEAK'
-    out.update(role_hits=role_hits,task_hits=task_hits,tool_hits=tool_hits,role_family=role_family,geo_class=geo_class,seniority_class=seniority,blockers=blockers,junior_signal=junior)
+
+    out.update(
+        role_hits=role_hits,
+        task_hits=task_hits,
+        tool_hits=tool_hits,
+        role_family=role_family,
+        geo_class=geo_class,
+        seniority_class=seniority,
+        blockers=blockers,
+        junior_signal=junior,
+    )
     return out
 
 
@@ -110,8 +122,11 @@ def score_job_v2(job, profile):
     if len(str(classified.get('description',''))) >= 100: quality += 2
     if classified.get('source_kind') in ('official','ats'): quality += 2
     score = min(100, role_points + task_points + tool_points + seniority_points + geo_points + quality)
+    if not blockers and role_family == 'DIRECT' and classified.get('geo_class') in ('LOCAL_STRONG','LOCAL_NEARBY','REMOTE_ITALY'):
+        score = max(score, 60)
     if blockers:
         score = min(score, 45)
+
     why = []
     if role_points: why.append(f'+ ruolo {role_family.lower()}')
     for hit in task_hits[:4]: why.append(f'+ {hit}')
@@ -120,10 +135,12 @@ def score_job_v2(job, profile):
     elif classified.get('geo_class') == 'LOCAL_NEARBY': why.append('+ cintura torinese')
     elif classified.get('geo_class') == 'REMOTE_ITALY': why.append('+ remoto Italia')
     if seniority == 'JUNIOR_ACCESSIBLE': why.append('+ seniorità accessibile')
+
     gaps = []
     if not tool_hits: gaps.append('Strumenti specifici non indicati')
     if seniority == 'NEUTRAL': gaps.append('Seniorità non chiarissima')
     if classified.get('geo_class') == 'UNKNOWN': gaps.append('Località non indicata')
+
     if blockers or score < 60:
         label = 'NON_PERTINENTE'
     elif score >= 75:
