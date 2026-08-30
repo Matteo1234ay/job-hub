@@ -1,0 +1,13 @@
+{
+  "name": "Job Hub Torino",
+  "short_name": "Job Hub",
+  "description": "Opportunità digital, social media, content e video selezionate per Torino e dintorni.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4f0",
+  "theme_color": "#f4f4f0",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
