@@ -27,3 +27,10 @@ def test_daily_workflow_has_free_redundant_schedule():
     workflow = Path('.github/workflows/daily-jobs.yml').read_text()
     assert "cron: '15 6 * * *'" in workflow
     assert "cron: '15 7 * * *'" in workflow
+
+
+def test_pages_redeploys_after_successful_feed_refresh():
+    workflow = Path('.github/workflows/pages.yml').read_text()
+    assert 'workflow_run:' in workflow
+    assert 'workflows: ["Daily jobs"]' in workflow
+    assert "github.event.workflow_run.conclusion == 'success'" in workflow
