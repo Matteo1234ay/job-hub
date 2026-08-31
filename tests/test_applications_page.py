@@ -12,7 +12,7 @@ def test_applications_page_exists_and_uses_private_local_state():
     js = Path('public/candidature.js').read_text()
     assert 'Le mie candidature' in html
     assert "jobhub.applicationState.v1" in js
-    assert "fetch('data/jobs.json'" in js
+    assert 'data/jobs.json${fresh()}' in js
     assert "cache:'no-store'" in js
 
 
