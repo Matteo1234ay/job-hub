@@ -6,6 +6,8 @@ on:
       - 'config/profile.json'
       - 'config/sources.json'
       - 'src/jobhub/**'
+      - 'tests/**'
+      - '.github/workflows/daily-jobs.yml'
   workflow_dispatch:
   schedule:
     - cron: '15 6 * * *'
