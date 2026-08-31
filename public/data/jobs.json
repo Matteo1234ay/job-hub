@@ -35,14 +35,52 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
-    "id": "8030e1b25f26acfb",
+    "id": "d4aa172463b1a3bc",
+    "title": "Content Creator & Strategist",
+    "company": "Wimage",
+    "url": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473",
+    "location": "Torino",
+    "description": "Gestione social e strategia contenuti per Instagram, TikTok e LinkedIn; piani editoriali, ideazione, produzione ed editing con CapCut, community management, creator scouting, copywriting e video talk-to-camera. Modalità ibrida a Torino, collaborazione freelance/P.IVA.",
+    "source": "Web discovery",
+    "published_at": "",
+    "work_mode": "hybrid",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473"
+    },
+    "role_family": "DIRECT",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 82,
+    "match_label": "MATCH_FORTE",
+    "why": [
+      "+ ruolo direct",
+      "+ copywriting",
+      "+ copy",
+      "+ editing",
+      "+ tiktok",
+      "+ strumento capcut",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473"
+  },
+  {
+    "id": "919e939fb3723d1f",
     "title": "Digital Content Creator",
     "company": "Spin-To S.r.l. Communication for Innovation & Design",
-    "url": "https://it.linkedin.com/jobs/view/digital-content-creator-at-spin-to-s-r-l-communitation-for-innovation-design-4459117719",
+    "url": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719",
     "location": "Torino",
     "description": "Creazione di contenuti digitali con forte componente videomaking e video editing: riprese durante eventi, social coverage, montaggio per Instagram, TikTok e YouTube, stories, reel, interviste brevi e recap. Richieste autonomia sul campo e rapidità nel passaggio da ripresa a montaggio.",
     "source": "Web discovery",
@@ -51,7 +89,7 @@
     "source_kind": "discovery",
     "source_attribution": {
       "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/digital-content-creator-at-spin-to-s-r-l-communitation-for-innovation-design-4459117719"
+      "url": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719"
     },
     "role_family": "DIRECT",
     "geo_class": "LOCAL_STRONG",
@@ -73,8 +111,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/digital-content-creator-at-spin-to-s-r-l-communitation-for-innovation-design-4459117719"
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719"
   },
   {
     "id": "a61d12127e696a44",
@@ -82,7 +120,7 @@
     "company": "Eskimo",
     "url": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698",
     "location": "Torino",
-    "description": "Content creation per due progetti social: pubblicazioni Instagram e TikTok, shooting, piano editoriale, Reel, caroselli, scrittura, ideazione e produzione foto/video. Richiesti videomaking, fotografia, adv social e almeno tre anni di esperienza nella gestione di profili Instagram; collaborazione part-time a P.IVA in presenza a Torino. Candidature fino al 4 settembre 2026.",
+    "description": "Content creation per progetti social: pubblicazioni Instagram e TikTok, shooting, piano editoriale, Reel, caroselli, scrittura, ideazione e produzione foto/video. Collaborazione part-time a P.IVA in presenza a Torino.",
     "source": "Web discovery",
     "published_at": "2026-08-29",
     "work_mode": "onsite",
@@ -111,46 +149,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698"
-  },
-  {
-    "id": "fdb71dbb16311620",
-    "title": "SOCIAL MEDIA & DIGITAL MARKETING SPECIALIST",
-    "company": "MFGA - MAKE FASHION GREAT AGAIN",
-    "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236",
-    "location": "Rosta",
-    "description": "Gestione della presenza digitale e strategia social, piano editoriale e copy, produzione di contenuti foto/video/grafici, Instagram, LinkedIn e TikTok, community e KPI. Richiesti Canva, Meta Business Manager e competenze digital marketing; indicati 3-5 anni di esperienza. Full time in presenza a Rosta.",
-    "source": "Web discovery",
-    "published_at": "",
-    "work_mode": "onsite",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
-    },
-    "role_family": "ADJACENT",
-    "geo_class": "LOCAL_NEARBY",
-    "blockers": [],
-    "score": 72,
-    "match_label": "DA_VALUTARE",
-    "why": [
-      "+ ruolo adjacent",
-      "+ piano editoriale",
-      "+ strategia social",
-      "+ copy",
-      "+ tiktok",
-      "+ strumento canva",
-      "+ cintura torinese"
-    ],
-    "gaps": [
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
     "id": "7ba3087de0effd2f",
@@ -158,7 +158,7 @@
     "company": "Nam Studio",
     "url": "https://namstudio.typeform.com/to/HWd1smhf",
     "location": "Avigliana",
-    "description": "Tirocinio operativo sui social: ideazione format, scrittura e progettazione video, registrazione con smartphone, editing con CapCut, pubblicazione e crescita dei contenuti. Non è richiesta esperienza pregressa specifica; tirocinio di sei mesi full time in presenza, 700 euro netti al mese, con possibilità di inserimento successivo.",
+    "description": "Tirocinio operativo sui social: ideazione format, scrittura e progettazione video, registrazione con smartphone, editing con CapCut, pubblicazione e crescita dei contenuti. Tirocinio di sei mesi full time in presenza, 700 euro netti al mese, con possibilità di inserimento successivo.",
     "source": "Web discovery",
     "published_at": "",
     "work_mode": "onsite",
@@ -185,8 +185,46 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
+  },
+  {
+    "id": "fdb71dbb16311620",
+    "title": "SOCIAL MEDIA & DIGITAL MARKETING SPECIALIST",
+    "company": "MFGA - MAKE FASHION GREAT AGAIN",
+    "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236",
+    "location": "Rosta",
+    "description": "Gestione della presenza digitale e strategia social, piano editoriale e copy, produzione di contenuti foto/video/grafici, Instagram, LinkedIn e TikTok, community e KPI. Full time in presenza a Rosta.",
+    "source": "Web discovery",
+    "published_at": "",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
+    },
+    "role_family": "ADJACENT",
+    "geo_class": "LOCAL_NEARBY",
+    "blockers": [],
+    "score": 67,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo adjacent",
+      "+ piano editoriale",
+      "+ strategia social",
+      "+ copy",
+      "+ tiktok",
+      "+ cintura torinese"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
     "id": "3bbdc6a2d19d3986",
@@ -194,7 +232,7 @@
     "company": "Nam Studio",
     "url": "https://namstudio.typeform.com/to/DnBCH5mb",
     "location": "Avigliana / Torino e provincia",
-    "description": "Videomaker full time per la produzione interna: riprese e montaggio video, giornate di set, lavoro in team e in autonomia, portfolio o showreel richiesto. Modalità ibrida tra studio di Avigliana, produzioni e smart working; preferibile essere automuniti.",
+    "description": "Videomaker full time per NAM Studio Production: riprese e montaggio video, giornate di set, lavoro in team e in autonomia, portfolio o showreel richiesto. Modalità ibrida tra studio di Avigliana, produzioni e smart working.",
     "source": "Web discovery",
     "published_at": "2026-08-29",
     "work_mode": "hybrid",
@@ -206,24 +244,61 @@
     "role_family": "DIRECT",
     "geo_class": "LOCAL_STRONG",
     "blockers": [],
-    "score": 66,
+    "score": 61,
     "match_label": "DA_VALUTARE",
     "why": [
       "+ azienda prioritaria: Nam Studio",
       "+ ruolo direct",
       "+ riprese",
       "+ montaggio video",
-      "+ Torino/Collegno/Rivoli",
-      "+ seniorità accessibile"
+      "+ Torino/Collegno/Rivoli"
     ],
     "gaps": [
-      "Strumenti specifici non indicati"
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
     ],
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
+  },
+  {
+    "id": "aa89e59913d73e81",
+    "title": "Content Creator",
+    "company": "Nam Studio",
+    "url": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892",
+    "location": "Torino",
+    "description": "Ruolo da content creator/talent per video social: presenza davanti alla camera in sketch e format per un grande brand italiano, con strategia, script, riprese ed editing gestiti dal team NAM Studio.",
+    "source": "Web discovery",
+    "published_at": "",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892"
+    },
+    "role_family": "DIRECT",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 61,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ azienda prioritaria: Nam Studio",
+      "+ ruolo direct",
+      "+ riprese",
+      "+ editing",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892"
   },
   {
     "id": "5b9e9dea5f2da998",
@@ -258,23 +333,23 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
-    "id": "f644798c943e9046",
+    "id": "123dd209d4f4250c",
     "title": "Social Media Manager",
     "company": "Principi ADV",
-    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500",
+    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179",
     "location": "Torino",
-    "description": "Gestione strategica, creativa e operativa dei progetti social: analisi, strategia, ideazione contenuti, piani editoriali, campagne paid e lettura delle performance. Lavoro su brand e clienti diversi in team con strategist, creativi e produzione; contratto full time in sede a Torino.",
+    "description": "Gestione strategica, creativa e operativa dei progetti social: analisi, strategia, ideazione contenuti, piani editoriali, campagne Meta Ads e lettura KPI. Collaborazione con copywriter, designer, videomaker e content creator.",
     "source": "Web discovery",
     "published_at": "",
     "work_mode": "onsite",
     "source_kind": "discovery",
     "source_attribution": {
       "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
+      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179"
     },
     "role_family": "DIRECT",
     "geo_class": "LOCAL_STRONG",
@@ -283,7 +358,7 @@
     "match_label": "DA_VALUTARE",
     "why": [
       "+ ruolo direct",
-      "+ performance",
+      "+ copy",
       "+ Torino/Collegno/Rivoli"
     ],
     "gaps": [
@@ -293,8 +368,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179"
   },
   {
     "id": "03ed8ab101da4851",
@@ -302,7 +377,7 @@
     "company": "Corposostenibile",
     "url": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012",
     "location": "Italia",
-    "description": "Video editor full remote per team creativo e marketing: montaggio di contenuti per social media, advertising e progetti corporate, gestione di audio, color correction, grafiche e sottotitoli, collaborazione con copy e marketing e uso di strumenti AI per la produzione creativa. Collaborazione full time in Partita IVA.",
+    "description": "Video editor full remote per team creativo e marketing: montaggio di contenuti per social media, advertising e progetti corporate, gestione audio, color correction, grafiche e sottotitoli, collaborazione con copy e marketing e uso di strumenti AI. Collaborazione full time in Partita IVA.",
     "source": "Web discovery",
     "published_at": "2026-08-29",
     "work_mode": "remote",
@@ -328,7 +403,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-08-30T11:50:27.996246+00:00",
+    "last_seen_at": "2026-08-31T06:29:17.122125+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   }
 ]
