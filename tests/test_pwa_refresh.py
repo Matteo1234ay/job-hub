@@ -18,7 +18,8 @@ def test_dashboard_exposes_last_refresh_status():
     html = Path('public/index.html').read_text()
     js = Path('public/app.js').read_text()
     assert 'id="refreshStatus"' in html
-    assert "fetch('data/run.json'" in js
+    assert 'data/run.json${fresh()}' in js
+    assert "cache:'no-store'" in js
     assert 'generated_at' in js
 
 
