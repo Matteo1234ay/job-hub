@@ -8,6 +8,7 @@ def test_home_uses_csp_safe_event_delegation_for_status_changes():
     assert "addEventListener('change'" in js
     assert "data-job-status" in js
     assert "setStatus(select.dataset.jobStatus,select.value)" in js
+    assert 'save();render()' in js
 
 
 def test_application_page_uses_csp_safe_event_delegation_and_updates_immediately():
@@ -16,6 +17,7 @@ def test_application_page_uses_csp_safe_event_delegation_and_updates_immediately
     assert "addEventListener('change'" in js
     assert "data-job-status" in js
     assert "setStatus(select.dataset.jobStatus,select.value)" in js
+    assert 'save();render()' in js
 
 
 def test_job_links_are_opened_without_replacing_job_hub():
