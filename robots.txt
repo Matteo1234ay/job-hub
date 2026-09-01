@@ -1,4 +1,4 @@
-# Personal Job Hub: do not crawl or index.
+# Personal Job Hub: block compliant web crawlers.
 # This does not affect GitHub Actions, job-source requests, or the PWA itself.
 User-agent: *
 Disallow: /
