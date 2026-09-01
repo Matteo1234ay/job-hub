@@ -1,0 +1,4 @@
+# Personal Job Hub: do not crawl or index.
+# This does not affect GitHub Actions, job-source requests, or the PWA itself.
+User-agent: *
+Disallow: /
