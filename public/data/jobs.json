@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,84 +74,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
-  },
-  {
-    "id": "d4aa172463b1a3bc",
-    "title": "Content Creator & Strategist",
-    "company": "Wimage",
-    "url": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473",
-    "location": "Torino",
-    "description": "Gestione social e strategia contenuti per Instagram, TikTok e LinkedIn; piani editoriali, ideazione, produzione ed editing con CapCut, community management, creator scouting, copywriting e video talk-to-camera. Modalità ibrida a Torino, collaborazione freelance/P.IVA.",
-    "source": "Web discovery",
-    "published_at": "",
-    "work_mode": "hybrid",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473"
-    },
-    "role_family": "DIRECT",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 82,
-    "match_label": "MATCH_FORTE",
-    "why": [
-      "+ ruolo direct",
-      "+ copywriting",
-      "+ copy",
-      "+ editing",
-      "+ tiktok",
-      "+ strumento capcut",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-31T06:29:17.122125+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-strategist-at-wimage-4306547473"
-  },
-  {
-    "id": "919e939fb3723d1f",
-    "title": "Digital Content Creator",
-    "company": "Spin-To S.r.l. Communication for Innovation & Design",
-    "url": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719",
-    "location": "Torino",
-    "description": "Creazione di contenuti digitali con forte componente videomaking e video editing: riprese durante eventi, social coverage, montaggio per Instagram, TikTok e YouTube, stories, reel, interviste brevi e recap. Richieste autonomia sul campo e rapidità nel passaggio da ripresa a montaggio.",
-    "source": "Web discovery",
-    "published_at": "2026-08-29",
-    "work_mode": "onsite",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719"
-    },
-    "role_family": "DIRECT",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 78,
-    "match_label": "MATCH_FORTE",
-    "why": [
-      "+ ruolo direct",
-      "+ riprese",
-      "+ video editing",
-      "+ editing",
-      "+ stories",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Strumenti specifici non indicati",
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/digital-content-creator-4459117719"
   },
   {
     "id": "a61d12127e696a44",
@@ -188,7 +112,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698"
   },
   {
@@ -225,7 +149,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T12:05:33.856535+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469"
   },
   {
@@ -261,7 +185,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -299,7 +223,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
   },
   {
@@ -337,7 +261,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -374,7 +298,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
   },
   {
@@ -411,7 +335,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-31T06:29:17.122125+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892"
   },
   {
@@ -447,14 +371,14 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
-    "id": "123dd209d4f4250c",
+    "id": "f644798c943e9046",
     "title": "Social Media Manager",
     "company": "Principi ADV",
-    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179",
+    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500",
     "location": "Torino",
     "description": "Gestione strategica, creativa e operativa dei progetti social: analisi, strategia, ideazione contenuti, piani editoriali, campagne Meta Ads e lettura KPI. Collaborazione con copywriter, designer, videomaker e content creator.",
     "source": "Web discovery",
@@ -463,7 +387,7 @@
     "source_kind": "discovery",
     "source_attribution": {
       "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179"
+      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
     },
     "role_family": "DIRECT",
     "geo_class": "LOCAL_STRONG",
@@ -482,8 +406,43 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4458191179"
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
+  },
+  {
+    "id": "feed84424a2bf44f",
+    "title": "Veterinario",
+    "company": "Nam Studio",
+    "url": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237",
+    "location": "Torino / Milano",
+    "description": "Talent per contenuti social a tema animali: registrazione video 2-3 volte al mese a Torino/provincia o Milano/provincia, con forte presenza davanti alla camera e capacità di spiegare temi tecnici in modo semplice. Abilitazione veterinaria preferita per i contenuti in camice, ma l'annuncio invita anche profili non abilitati ritenuti adatti. Inserito per l'eccezione NAM Studio.",
+    "source": "Web discovery",
+    "published_at": "",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237"
+    },
+    "role_family": "WEAK",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 60,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ azienda prioritaria: Nam Studio",
+      "+ registrazione video",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-03T05:59:52.894550+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237"
   },
   {
     "id": "03ed8ab101da4851",
@@ -517,7 +476,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -552,7 +511,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -587,7 +546,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -622,7 +581,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -656,7 +615,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -690,7 +649,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-02T12:05:33.856535+00:00",
+    "last_seen_at": "2026-09-03T05:59:52.894550+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   }
 ]

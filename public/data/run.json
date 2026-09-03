@@ -3,32 +3,34 @@
     "Arbeitnow": {
       "ok": true,
       "count": 175,
-      "requests": 1,
-      "cache_used": false,
+      "requests": 0,
+      "cache_used": true,
+      "cache_fresh": true,
       "source_kind": "aggregator"
     },
     "RemoteOK": {
       "ok": true,
       "count": 100,
-      "requests": 1,
-      "cache_used": false,
+      "requests": 0,
+      "cache_used": true,
+      "cache_fresh": true,
       "source_kind": "aggregator"
     },
     "Web discovery": {
       "ok": true,
-      "count": 19,
+      "count": 18,
       "requests": 1,
       "cache_used": false,
       "source_kind": "discovery"
     }
   },
-  "fetched": 294,
+  "fetched": 293,
   "rejected_irrelevant": 275,
   "rejected_expired": 0,
   "deduplicated": 0,
-  "published": 19,
+  "published": 18,
   "stale_data": false,
-  "priority_kept": 4,
-  "generated_at": "2026-09-02T12:05:34.617823+00:00",
+  "priority_kept": 5,
+  "generated_at": "2026-09-03T05:59:53.048736+00:00",
   "pipeline": "v2"
 }
