@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,7 +74,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -112,45 +112,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698"
-  },
-  {
-    "id": "212bfd18c85fabf5",
-    "title": "Fullstack Software Engineer - Core",
-    "company": "dataiku",
-    "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centralized governance.&lt;br&gt;&lt;br&gt;The world’s leading companies rely on Dataiku to operationalize AI and run it as a true business performance engine delivering measurable value. For more, visit the Dataiku &lt;a href=&quot;https://blog.dataiku.com/?_gl=1*17edvf4*_ga*MjA1Mjk5NzY4OC4xNjY3MjMyMDUz*_ga_B3YXRYMY48*MTY2OTA1MDY5NS4xMi4xLjE2NjkwNTA2OTguNTcuMC4w&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/dataiku/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/dataiku&quot; target=&quot;_blank&quot;&gt;X&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/dataiku&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Why Engineering at Dataiku?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Dataiku’s on-premise, cloud, or SaaS-deployed platform connects many data science technologies, and our technology stack reflects our commitment to quality and innovation. We integrate the best of data and AI tech, selecting tools that truly enhance our product. From the latest LLMs to our dedication to open source communities, you&#39;ll work with a dynamic range of technologies and contribute to the collective knowledge of global tech innovators. You can find out even more about working in Engineering at Dataiku by taking a look&lt;a href=&quot;https://www.dataiku.com/company/engineering/&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Here are some useful links so you preview what we do at Dataiku: &lt;a href=&quot;https://www.dataiku.com/product/key-capabilities/&quot;&gt;Dataiku&#39;s Key Capabilities&lt;/a&gt; ; &lt;a href=&quot;https://github.com/dataiku&quot;&gt;Dataiku&#39;s Github&lt;/a&gt;, you can also take a look at the &lt;a href=&quot;https://gallery.dataiku.com/home/&quot;&gt;Gallery&lt;/a&gt;, a public instance showcasing some example projects (note editing is very limited and will be regularly reset).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our product is called Dataiku DSS which stands for Dataiku Data Science Studio. If you’d like to know more about it, you can watch the demo &lt;a href=&quot;https://pages.dataiku.com/end-to-end-dataiku-demo?utm_id=14648494444--148281341717--655855787975--dataiku+trial&amp;amp;utm_source=emea-adwords&amp;amp;utm_medium=paid-search&amp;amp;gad_source=1&amp;amp;gclid=CjwKCAjw1K-zBhBIEiwAWeCOF-ePIr0yim7uDNnOf685kiftYIfiTKWz-PNnwLnQ9zPc_cSwgYDAVhoCOH0QAvD_BwE&quot;&gt;here&lt;/a&gt; or try the free version &lt;a href=&quot;https://pages.dataiku.com/interactive-data-sheet?utm_id=14648494444--148281341717--655855787975--dataiku%20trial&amp;amp;utm_source=emea-adwords&amp;amp;utm_medium=paid-search&amp;amp;utm_campaign=GLO%20CONTENT%20Interactive%20Data%20Sheet&amp;amp;gad_source=1&amp;amp;gclid=CjwKCAjw1K-zBhBIEiwAWeCOF63Lb-1EuHX8HNe5jIbCBbocmW7C8tLI4gVUK1edcWBsZSn_n5BGYBoCwA0QAvD_BwE&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;How you’ll make an impact&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Fullstack Engineer, you’ll contribute to building Dataiku DSS core features by joining one of the following themes:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Preparation&lt;/strong&gt;: Develop tools for data integration, transformation, and cataloging, as well as Jupyter notebooks, SQL workbenches, and APIs.\n&lt;ul&gt;\n&lt;li&gt;Add new capabilities for data integration, transformation, and visualization using LLMs&lt;/li&gt;\n&lt;li&gt;Optimize workflows for large-scale datasets and improve database support&lt;/li&gt;\n&lt;li&gt;Strengthen developer tools like Jupyter notebooks and SQL workbenches&lt;/li&gt;\n&lt;li&gt;Tech stack: Java, Python, AngularJS, Angular&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;AI &amp;amp; Machine Learning&lt;/strong&gt;: Collaborate on next-gen AI features, from statistics and time series forecasting to LLM inference.\n&lt;ul&gt;\n&lt;li&gt;Build next-generation features like cross-provider LLM APIs or integration with the latest Machine Learning models&lt;/li&gt;\n&lt;li&gt;Collaborate with research teams on innovative machine learning experiments&lt;/li&gt;\n&lt;li&gt;Tech stack: Python, scikit-learn, TensorFlow, PyTorch, Java, Angular, AngularJS&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Data Consumption:&amp;nbsp;&lt;/strong&gt;build the experience that makes data accessible and actionable for everyone.\n&lt;ul&gt;\n&lt;li&gt;Enhance our collaborative Workspaces to organize and explore charts, dashboards, datasets and more&lt;/li&gt;\n&lt;li&gt;Create innovative&lt;strong data-stringify-type=&quot;bold&quot;&gt;&amp;nbsp;&lt;/strong&gt;interfaces&lt;strong data-stringify-type=&quot;bold&quot;&gt;&amp;nbsp;&lt;/strong&gt;that answer business questions and surface relevant insights using LLMs&lt;/li&gt;\n&lt;li&gt;Tech stack:&amp;nbsp;Angular, AngularJS, Java, Python&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt;: elevate our data visualization capabilities with high-performance charting tools and dashboards.\n&lt;ul&gt;\n&lt;li&gt;Develop new chart types and optimize visualization performance&lt;/li&gt;\n&lt;li&gt;Enhance dash boarding capabilities to deliver fast and flexible experiences&lt;/li&gt;\n&lt;li&gt;Tech stack: React, AngularJS, Angular, D3.js, ECharts, Node.js, Java, Spring&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;MLOps&lt;/strong&gt;: Develop back-end capabilities for automating and monitoring ML model lifecycles while supporting cross-functional collaboration.\n&lt;ul&gt;\n&lt;li&gt;Build tools to automate retraining, monitoring, and deployment of ML models&lt;/li&gt;\n&lt;li&gt;Enhance collaboration features for ML stakeholders&lt;/li&gt;\n&lt;li&gt;Tech stack: Python, Java, Angular, Angular.JS, Kubernetes, Docker&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Platform&lt;/strong&gt;: Focus on scaling and securing the platform while improving cloud integrations and supporting a wide array of data sources and engines.\n&lt;ul&gt;\n&lt;li&gt;Optimize processing engines for scalability and latency&lt;/li&gt;\n&lt;li&gt;Expand capabilities to support new databases and cloud platforms&lt;/li&gt;\n&lt;li&gt;Tech stack: Java, Python, Angular, Kubernetes, Spark, AWS, Azure, GCP&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI Governance&lt;/strong&gt;: Build features for AI compliance, connecting disparate systems and simplifying governance processes.\n&lt;ul&gt;\n&lt;li&gt;Develop customizable platforms for managing AI compliance and governance&lt;/li&gt;\n&lt;li&gt;Simplify policy enforcement and integration across disparate systems&lt;/li&gt;\n&lt;li&gt;Tech stack: Java, Angular, PostgreSQL&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you need to be successful&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We’re stack agnostic, so all you need is a significant experience in software engineering,&amp;nbsp; building a real product&lt;/li&gt;\n&lt;li&gt;We’re hiring at all levels (junior, mid, senior)&lt;/li&gt;\n&lt;li&gt;A passion for combining backend performance with exceptional frontend user experience.&lt;/li&gt;\n&lt;li&gt;You want to work in a fast-paced, high-growth environment that values diversity of talent, excellence of product, and exciting engineering challenges at scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;What does the hiring process look like?&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Initial call with a member of our Technical Recruiting team (45min)&lt;/li&gt;\n&lt;li&gt;Video call with an Engineering Team Lead (1h30)&lt;/li&gt;\n&lt;li&gt;Technical Assessment to show your skills (Home Test or Live Coding)&lt;/li&gt;\n&lt;li&gt;Final Interviews with our VPs of Engineering (2h) &amp;nbsp; &lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;What are you waiting for!&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;At Dataiku, you&#39;ll be part of a journey to shape the ever-evolving world of AI. We&#39;re not just building a product; we&#39;re crafting the future of AI. If you&#39;re ready to make a significant impact in a company that values innovation, collaboration, and your personal growth, we can&#39;t wait to welcome you to Dataiku! And if you’d like to learn even more about working here, you can visit our &lt;a href=&quot;https://www.linkedin.com/company/dataiku/&quot;&gt;Dataiku LinkedIn page&lt;/a&gt;.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;Our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. Dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. Therefore, we are proud to be an equal opportunity employer.&amp;nbsp;All employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. This applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment. If you need assistance or an accommodation, please contact us at: &lt;/em&gt;&lt;a class=&quot;postings-link&quot; ----------\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;hr&gt;&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;&lt;strong&gt;Protect yourself from fraudulent recruitment activity&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;&lt;em&gt;Dataiku will never ask you for payment of any type during the interview or hiring process. Other than our video-conference application, Zoom, we will also never ask you to make purchases or download third-party applications during the process. If you experience something out of the ordinary or suspect fraudulent activity, please review our page on identifying and reporting fraudulent activity&amp;nbsp;&lt;a href=&quot;https://www.dataiku.com/legal/dataiku-recruitment-scams/&quot; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt; Find  Jobs in Germany  on Arbeitnow",
-    "source": "Arbeitnow",
-    "published_at": 1788328510,
-    "work_mode": "remote",
-    "source_kind": "aggregator",
-    "source_attribution": {
-      "name": "Arbeitnow",
-      "url": "https://www.arbeitnow.com/"
-    },
-    "role_family": "TASK_MATCH",
-    "geo_class": "REMOTE_ITALY",
-    "blockers": [],
-    "score": 73,
-    "match_label": "DA_VALUTARE",
-    "why": [
-      "+ ruolo task_match",
-      "+ editing",
-      "+ youtube",
-      "+ analytics",
-      "+ performance",
-      "+ strumento analytics",
-      "+ remoto Italia",
-      "+ seniorità accessibile"
-    ],
-    "gaps": [],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-09-02T12:05:33.856535+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
-    "canonical_source": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469"
   },
   {
     "id": "7ba3087de0effd2f",
@@ -185,7 +148,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -223,8 +186,46 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
+  },
+  {
+    "id": "6610e66cd055e7ea",
+    "title": "Social Media & Communications Specialist",
+    "company": "CRA-Carlo Ratti Associati",
+    "url": "https://carlorattiassociati.com/jobs",
+    "location": "Torino",
+    "description": "Ruolo ibrido tra social media management e comunicazione: content planning, publishing, community management, reporting, storytelling, copywriting e supporto alla produzione visual/video. Richiesti 2-4 anni di esperienza e forte inglese; interesse per design, innovazione e tecnologia.",
+    "source": "Web discovery",
+    "published_at": "2026-09-04",
+    "work_mode": "hybrid",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://carlorattiassociati.com/jobs/"
+    },
+    "role_family": "ADJACENT",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 68,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo adjacent",
+      "+ copywriting",
+      "+ copy",
+      "+ community management",
+      "+ reporting",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
+    "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
     "id": "fdb71dbb16311620",
@@ -261,7 +262,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -298,45 +299,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
-  },
-  {
-    "id": "aa89e59913d73e81",
-    "title": "Content Creator",
-    "company": "Nam Studio",
-    "url": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892",
-    "location": "Torino",
-    "description": "Ruolo da content creator/talent per video social: presenza davanti alla camera in sketch e format per un grande brand italiano, con strategia, script, riprese ed editing gestiti dal team NAM Studio.",
-    "source": "Web discovery",
-    "published_at": "",
-    "work_mode": "onsite",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892"
-    },
-    "role_family": "DIRECT",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 61,
-    "match_label": "DA_VALUTARE",
-    "why": [
-      "+ azienda prioritaria: Nam Studio",
-      "+ ruolo direct",
-      "+ riprese",
-      "+ editing",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Strumenti specifici non indicati",
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-31T06:29:17.122125+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-nam-studio-4406455892"
   },
   {
     "id": "5b9e9dea5f2da998",
@@ -371,7 +335,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
@@ -406,43 +370,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
-  },
-  {
-    "id": "feed84424a2bf44f",
-    "title": "Veterinario",
-    "company": "Nam Studio",
-    "url": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237",
-    "location": "Torino / Milano",
-    "description": "Talent per contenuti social a tema animali: registrazione video 2-3 volte al mese a Torino/provincia o Milano/provincia, con forte presenza davanti alla camera e capacità di spiegare temi tecnici in modo semplice. Abilitazione veterinaria preferita per i contenuti in camice, ma l'annuncio invita anche profili non abilitati ritenuti adatti. Inserito per l'eccezione NAM Studio.",
-    "source": "Web discovery",
-    "published_at": "",
-    "work_mode": "onsite",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237"
-    },
-    "role_family": "WEAK",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 60,
-    "match_label": "DA_VALUTARE",
-    "why": [
-      "+ azienda prioritaria: Nam Studio",
-      "+ registrazione video",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Strumenti specifici non indicati",
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-09-03T05:59:52.894550+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/veterinario-at-nam-studio-4443264237"
   },
   {
     "id": "03ed8ab101da4851",
@@ -476,7 +405,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -511,7 +440,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -546,7 +475,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -581,7 +510,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -615,7 +544,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -649,7 +578,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-03T12:04:58.232611+00:00",
+    "last_seen_at": "2026-09-04T06:01:58.538524+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   }
 ]
