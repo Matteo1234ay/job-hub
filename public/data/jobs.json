@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,46 +74,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
-  },
-  {
-    "id": "a61d12127e696a44",
-    "title": "Content Creator",
-    "company": "Eskimo",
-    "url": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698",
-    "location": "Torino",
-    "description": "Content creation per progetti social: pubblicazioni Instagram e TikTok, shooting, piano editoriale, Reel, caroselli, scrittura, ideazione e produzione foto/video. Collaborazione part-time a P.IVA in presenza a Torino.",
-    "source": "Web discovery",
-    "published_at": "2026-08-29",
-    "work_mode": "onsite",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698"
-    },
-    "role_family": "DIRECT",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 77,
-    "match_label": "MATCH_FORTE",
-    "why": [
-      "+ ruolo direct",
-      "+ piano editoriale",
-      "+ content creation",
-      "+ shooting",
-      "+ caroselli",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Strumenti specifici non indicati",
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/content-creator-at-eskimo-4459671698"
   },
   {
     "id": "7ba3087de0effd2f",
@@ -148,7 +110,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -186,7 +148,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
   },
   {
@@ -224,7 +186,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
@@ -262,8 +224,44 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
+  },
+  {
+    "id": "e53016f4e335bd49",
+    "title": "GRAFICO / SOCIAL MEDIA & CONTENT CREATOR JUNIOR",
+    "company": "Affida Homepanda - Sede Piemonte",
+    "url": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html",
+    "location": "Torino",
+    "description": "Ruolo junior in apprendistato nel team Marketing e Comunicazione: gestione pagine social, creazione di grafiche e contenuti digitali, ideazione di post, stories e Reel, creazione e montaggio video, campagne marketing e sviluppo di contenuti coordinati con l'identità dei brand. Non sono richiesti anni di esperienza.",
+    "source": "Web discovery",
+    "published_at": "2026-09-04",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://www.homepanda.it/contatti"
+    },
+    "role_family": "DIRECT",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 66,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo direct",
+      "+ montaggio video",
+      "+ stories",
+      "+ Torino/Collegno/Rivoli",
+      "+ seniorità accessibile"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
+    "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
     "id": "3bbdc6a2d19d3986",
@@ -299,7 +297,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
   },
   {
@@ -335,7 +333,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
@@ -370,7 +368,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
   },
   {
@@ -405,7 +403,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -440,7 +438,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -475,7 +473,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -510,7 +508,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -544,7 +542,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -578,7 +576,41 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-04T12:06:42.524998+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
+  },
+  {
+    "id": "609a7b65451f0305",
+    "title": "Social Media & Content Specialist Junior",
+    "company": "ORIGAMI WEB SRL",
+    "url": "https://www.simplyhired.it/job/uT7pSunjl3UYYu8mQFcSVGlZLhPfv3VzGdfD3loEm_ycUbKps_lrMg",
+    "location": "Grugliasco",
+    "description": "Ruolo junior in agenzia digitale con gestione della presenza online di più clienti, social media management, content marketing e progettazione di attività di comunicazione. Contratto di apprendistato; richiesta esperienza concreta anche breve nella gestione professionale di canali social.",
+    "source": "Web discovery",
+    "published_at": "2026-08-29",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
+    },
+    "role_family": "DIRECT",
+    "geo_class": "LOCAL_NEARBY",
+    "blockers": [],
+    "score": 60,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo direct",
+      "+ cintura torinese",
+      "+ seniorità accessibile"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
+    "last_seen_at": "2026-09-05T06:04:41.313227+00:00",
+    "canonical_source": "https://www.simplyhired.it/job/uT7pSunjl3UYYu8mQFcSVGlZLhPfv3VzGdfD3loEm_ycUbKps_lrMg"
   }
 ]
