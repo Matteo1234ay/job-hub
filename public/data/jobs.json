@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,7 +74,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -113,7 +113,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/viewjob"
   },
   {
@@ -149,7 +149,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -187,7 +187,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
   },
   {
@@ -225,7 +225,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
@@ -263,7 +263,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -299,7 +299,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -336,7 +336,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
   },
   {
@@ -372,7 +372,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
@@ -408,8 +408,45 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/marketing-communication-specialist-at-lifenet-healthcare-4464349194"
+  },
+  {
+    "id": "0cc05f89f4b68f2f",
+    "title": "Principal Data Engineer",
+    "company": "Vomela",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+    "location": "Remote",
+    "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on creating big things for global and local brands, we will help you build a career you can be passionate about.  Apply now to find your place at Vomela.  Pay Range:Â $180 - 200k USD  Job Summary  The Principal Data Engineer is the highest-performing contributor on our data engineering team - the person who sets the technical bar, owns the data platform end to end, and delivers work that others study. You'll define and execute data strategy at the engineering level, operating as the technical point of the spear for how the organization builds, scales, and trusts its data. You write production code. You design the architecture. You solve the problems that block everyone else. You mentor without being asked, influence without authority, and deliver without handholding. You're a force multiplier and you're hungry to shape not just the platform, but the broader data strategy of the business.  Microsoft Fabric is our data platform. This role is for someone genuinely energized by the Fabric ecosystem, who tracks its evolution closely and sees its breadth - Lakehouseâs, Event streams, Semantic models, Notebooks, Pipelines, Direct Lake as an opportunity, not a constraint. If you're looking for a role where your technical judgment shapes the trajectory of the entire data organization, this is exactly it.    What You'll Do...   Design and implement dimensional models, star schemas, and snowflake schemas with rigor  Build and maintain semantic models that serve as the single source of truth for business reporting  Implement Slowly Changing Dimension (SCD) strategies appropriate to each domain  Own master data engineering: golden record patterns, source-of-record authority, cross-system identity resolution  Establish and enforce data modeling standards across the team  Design and operate real-time and near-real-time pipelines using streaming technologies (Kafka, Confluent Cloud, Fabric Eventstreams) â and know when streaming is the right answer and when it isn't  Relentlessly drive down data staleness in non-streaming scenarios through intelligent scheduling, incremental load optimization, and pipeline orchestration design  Own performance tuning across the full stack â query optimization, partition strategy, indexing, Delta table compaction, semantic model refresh efficiency, and Direct Lake readiness  Apply operational engineering discipline: pipeline observability, alerting, SLA definition, failure recovery, and capacity planning  Design and implement controls appropriate for sensitive data (financials, PII, HIPAA, etc.)   ETL / ELT Pipeline Development   Build robust, scalable, observable pipelines â watermark-based incremental loads, CDC patterns, batch and streaming architectures  Ensure pipelines are idempotent, recoverable, and production-hardened  Serve as the senior technical voice in code review â your approval carries weight   Report &amp; Analytics Delivery   Translate business requirements into semantic models and report-layer artifacts that non-technical users can trust and navigate  Serve as the platform's primary technical interface across consumer groups: Power BI report builders needing trusted, well-modeled semantic layers; AI/ML developers needing governed, feature-ready data surfaces; application developers consuming data via SQL endpoints, REST APIs, or Direct Lake  Define and enforce data contracts â schema stability, access patterns, SLAs â for each consumer class  Own the developer experience of the platform: discoverability, documentation, and onboarding  \n Required   Microsoft Fabric: Lakehouses, Notebooks, Dataflows Gen2, Event streams, Semantic Models, Direct Lake mode  Power BI: report development, dataset/semantic model design, DAX proficiency  SQL Server / Azure SQL/Postgres: query optimization, schema design, stored procedures  Azure DevOps: Git-based development workflows, CI/CD for data pipelines   Â·Â Â Â Â Â Â Â  Demonstrated use of AI coding assistants in a production engineering workflow  Â·Â Â Â Â Â Â Â  Ability to critically evaluate, edit, and improve AI-generated code and artifacts  Â·Â Â Â Â Â Â Â  Clear understanding of where AI accelerates work and where it introduces risk  Preferred Qualifications   Familiarity with broader Azure Data Services (Azure Data Factory, Synapse Analytics, ADLS Gen2, Event Hubs) as complementary tooling  Experience in a private equity-backed or multi-entity portfolio company environment  Exposure to MDM platforms (Profisee, Semarchy, Ataccama, or equivalent)  Experience with Confluent Cloud / Apache Kafka for streaming ingestion into Fabric or Synapse  Familiarity with cross-tenant Azure / Fabric architecture  Background in business analysis, solutions architecture, or pre-sales engineering  Microsoft Fabric or Azure Data Engineer certifications  \n  Health Care Plan (Medical, Dental &amp; Vision)  Retirement Plan (401k)  Life Insurance (Basic, Voluntary &amp; AD&amp;D)  Paid Time Off  Short Term &amp; Long-Term Disability  Training &amp; Development  Wellness Resources    Please mention the word **GENTLEST** and tag RNjQuMjM2LjE0MC4xNjY= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4xNjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "source": "RemoteOK",
+    "published_at": "2026-08-17T16:00:06+00:00",
+    "work_mode": "remote",
+    "source_kind": "aggregator",
+    "source_attribution": {
+      "name": "RemoteOK",
+      "url": "https://remoteok.com/"
+    },
+    "role_family": "TASK_MATCH",
+    "geo_class": "REMOTE_ITALY",
+    "blockers": [],
+    "score": 60,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo task_match",
+      "+ analytics",
+      "+ performance",
+      "+ reporting",
+      "+ strumento analytics",
+      "+ remoto Italia"
+    ],
+    "gaps": [
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-10T11:12:59.758368+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
+    "canonical_source": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860"
   },
   {
     "id": "f644798c943e9046",
@@ -443,7 +480,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
   },
   {
@@ -478,7 +515,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -513,7 +550,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -548,7 +585,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -583,7 +620,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -617,7 +654,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -651,7 +688,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   },
   {
@@ -685,7 +722,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-10T06:00:58.059739+00:00",
+    "last_seen_at": "2026-09-10T11:12:59.758368+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   }
 ]
