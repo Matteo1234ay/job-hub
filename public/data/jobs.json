@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,7 +74,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -113,7 +113,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/viewjob"
   },
   {
@@ -149,7 +149,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -187,7 +187,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
   },
   {
@@ -225,7 +225,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
@@ -263,7 +263,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -299,7 +299,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -336,44 +336,8 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
-  },
-  {
-    "id": "5b9e9dea5f2da998",
-    "title": "Social media manager",
-    "company": "I Tennis Foundation",
-    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835",
-    "location": "Torino",
-    "description": "Percorso part-time di 12 mesi in comunicazione e social media rivolto a giovani under 28: creazione di contenuti digitali, testi, immagini e video, uso di Facebook, TikTok, Instagram e LinkedIn, strumenti base di grafica e produzione video. Borsa di studio da 5.000 euro annui, candidatura aperta fino al 10 settembre 2026.",
-    "source": "Web discovery",
-    "published_at": "2026-08-29",
-    "work_mode": "hybrid",
-    "source_kind": "discovery",
-    "source_attribution": {
-      "name": "Web discovery",
-      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
-    },
-    "role_family": "DIRECT",
-    "geo_class": "LOCAL_STRONG",
-    "blockers": [],
-    "score": 61,
-    "match_label": "DA_VALUTARE",
-    "why": [
-      "+ ruolo direct",
-      "+ tiktok",
-      "+ instagram",
-      "+ Torino/Collegno/Rivoli"
-    ],
-    "gaps": [
-      "Strumenti specifici non indicati",
-      "Seniorità non chiarissima"
-    ],
-    "verification": "PLAUSIBILE",
-    "active_status": "active",
-    "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
-    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-i-tennis-foundation-4457232835"
   },
   {
     "id": "d8dce1b3eff605e6",
@@ -408,7 +372,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/marketing-communication-specialist-at-lifenet-healthcare-4464349194"
   },
   {
@@ -445,7 +409,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-10T11:12:59.758368+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860"
   },
   {
@@ -480,7 +444,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
   },
   {
@@ -515,7 +479,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -550,7 +514,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -585,7 +549,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -620,7 +584,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -654,7 +618,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -688,7 +652,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   },
   {
@@ -722,7 +686,41 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-10T12:12:37.555128+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
+  },
+  {
+    "id": "4f71b333ec25a427",
+    "title": "Talent — motociclista per contenuti social automotive",
+    "company": "Nam Studio",
+    "url": "https://it.linkedin.com/jobs/view/talent-at-nam-studio-4465645385",
+    "location": "Torino",
+    "description": "Talent/frontman per contenuti social di un importante cliente automotive e aftermarket: NAM cerca un motociclista con la propria moto da coinvolgere nelle produzioni video. Inserito per l'eccezione NAM Studio indipendentemente dal match professionale diretto.",
+    "source": "Web discovery",
+    "published_at": "2026-09-11",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/talent-at-nam-studio-4465645385"
+    },
+    "role_family": "WEAK",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 60,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ azienda prioritaria: Nam Studio",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-11T06:00:52.528380+00:00",
+    "last_seen_at": "2026-09-11T06:00:52.528380+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/talent-at-nam-studio-4465645385"
   }
 ]
