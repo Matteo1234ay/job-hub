@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,7 +74,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -113,7 +113,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/viewjob"
   },
   {
@@ -150,7 +150,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-14T06:03:05.734066+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://www.spin-to.it"
   },
   {
@@ -186,7 +186,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -224,8 +224,84 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
+  },
+  {
+    "id": "5bc4cd3a7d08749e",
+    "title": "Social Media Manager",
+    "company": "MGA4studio Mauro Bellora Giuliana Morisano Architetti Associati",
+    "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-mga4studio-mauro-bellora-giuliana-morisano-architetti-associati-4467207324",
+    "location": "Torino",
+    "description": "Collaborazione freelance continuativa su Instagram e LinkedIn: ideazione, produzione e montaggio di foto, Reel e grafiche, copywriting, calendario editoriale e community management per progetti di architettura e design. Richiesta Partita IVA.",
+    "source": "Web discovery",
+    "published_at": "2026-09-17",
+    "work_mode": "hybrid",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/social-media-manager-at-mga4studio-mauro-bellora-giuliana-morisano-architetti-associati-4467207324"
+    },
+    "role_family": "DIRECT",
+    "geo_class": "LOCAL_STRONG",
+    "blockers": [],
+    "score": 69,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo direct",
+      "+ copywriting",
+      "+ copy",
+      "+ instagram",
+      "+ community management",
+      "+ Torino/Collegno/Rivoli"
+    ],
+    "gaps": [
+      "Strumenti specifici non indicati",
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-18T06:02:49.207464+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-mga4studio-mauro-bellora-giuliana-morisano-architetti-associati-4467207324"
+  },
+  {
+    "id": "ab708cb2c6b79ce6",
+    "title": "SOCIAL MEDIA & DIGITAL MARKETING SPECIALIST | BACK OFFICE",
+    "company": "Cesare Quaranta S.r.l.",
+    "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-back-office-at-cesare-quaranta-srl-4466070035",
+    "location": "Chieri",
+    "description": "Ruolo full time trasversale su social e digital marketing: Reel, Stories, video e fotografie, calendario editoriale, copy, Meta Ads, landing page, WordPress, newsletter e monitoraggio performance. Richiesti Canva e CapCut; esperienza nel settore non indispensabile.",
+    "source": "Web discovery",
+    "published_at": "2026-09-15",
+    "work_mode": "onsite",
+    "source_kind": "discovery",
+    "source_attribution": {
+      "name": "Web discovery",
+      "url": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-back-office-at-cesare-quaranta-srl-4466070035"
+    },
+    "role_family": "ADJACENT",
+    "geo_class": "LOCAL_NEARBY",
+    "blockers": [],
+    "score": 69,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo adjacent",
+      "+ copy",
+      "+ stories",
+      "+ performance",
+      "+ strumento capcut",
+      "+ strumento canva",
+      "+ cintura torinese"
+    ],
+    "gaps": [
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-18T06:02:49.207464+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
+    "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-back-office-at-cesare-quaranta-srl-4466070035"
   },
   {
     "id": "6610e66cd055e7ea",
@@ -262,7 +338,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
@@ -300,7 +376,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -336,7 +412,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -371,7 +447,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-16T06:04:38.943656+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://accessiway.teamtailor.com"
   },
   {
@@ -408,7 +484,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
   },
   {
@@ -444,7 +520,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/marketing-communication-specialist-at-lifenet-healthcare-4464349194"
   },
   {
@@ -479,7 +555,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
   },
   {
@@ -514,7 +590,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -549,7 +625,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -584,7 +660,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://www.helplavoro.it/offerta-di-lavoro-a-torino-cercasi-social-media-manager/6853677.2.html"
   },
   {
@@ -619,7 +695,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -653,7 +729,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -687,7 +763,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   },
   {
@@ -721,7 +797,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -755,7 +831,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-11T06:00:52.528380+00:00",
-    "last_seen_at": "2026-09-17T12:34:41.175535+00:00",
+    "last_seen_at": "2026-09-18T06:02:49.207464+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/talent-at-nam-studio-4465645385"
   }
 ]
