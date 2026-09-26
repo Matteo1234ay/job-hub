@@ -35,7 +35,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-video-maker-social-media-manager-at-geiby-s-r-l-4458072599"
   },
   {
@@ -74,7 +74,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -113,7 +113,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/viewjob"
   },
   {
@@ -150,7 +150,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-14T06:03:05.734066+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://www.spin-to.it"
   },
   {
@@ -190,7 +190,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-19T06:03:46.371696+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.trabajo.org/offerta-5270-644bb45c3a9b85575730bfd1c8847290"
   },
   {
@@ -228,8 +228,46 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-23T06:02:32.066479+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://www.simplyhired.it/job/QGrKp-ueAfdZcr09FsGoFkYpnXGzT8RnHWO_bA8zlB945wu2HAGuhw"
+  },
+  {
+    "id": "f8423a9f9e5c05f3",
+    "title": "Working Student Content Creation - Remote / Berlin (German Speaking)",
+    "company": "Uplane",
+    "url": "https://www.arbeitnow.com/jobs/companies/uplane/working-student-content-creation-remote-berlin-german-speaking-192180",
+    "location": "remote",
+    "description": "Werkstudent:in Content Creation mit AI (m/w/d)   Remote oder Berlin | bis 20 Std./Woche | 18-22 € pro Stunde | ab sofort     Über Uplane  Uplane will die Marketing-Industrie mit AI neu erfinden: Wir entwickeln und betreiben AI-Software, um Performance Marketing schneller, besser und effizienter zu machen. Als AI-fokussierte Marketing Agentur bieten wir Performance Marketing Management als Service an. Wir suchen nach kreativen Köpfen, die unsere Marketing Manager im Alltag bei der Kreativ-Arbeit unterstützen.    Deine Rolle  Du produzierst mithilfe unserer AI-Software Creative Content: Static Ads, Video Ads und Landing Pages. Account Management und Kundenkommunikation übernehmen unsere Marketing Manager, du hast den Kopf frei fürs Kreative.    Deine Aufgaben    Du erstellst Static Ads, Video Ads und Landing Pages mit unserer AI-Software, von der Idee bis zum fertigen Asset    Du produzierst Varianten von dem, was funktioniert, und hast Qualität und Brand-Vorgaben dabei immer im Blick      Dein Profil    Du bist an einer Hochschule eingeschrieben    Du hast ein Gespür für Social Media und Design, und Lust auf Kreativarbeit    Du sprichst fließend Deutsch    Du arbeitest eigenständig und zuverlässig    Du hast Lust, neue AI-Tools zu verwenden      Nice to have:  Erfahrung mit Paid Ads (Meta, TikTok, Google) oder Tools wie Canva, CapCut und Figma. Eigene Content-Projekte? Zeig sie uns gern.    Was dich erwartet    18-22 € pro Stunde, bis zu 20 Std./Woche (bei Bedarf in den Semesterferien gern mehr)    Mindestens 3 Monate, Start ab sofort    Bis Anfang Oktober komplett remote, danach wahlweise remote oder in unserem neuen Berliner Office vor Ort    Ownership ab Tag 1 und eine steile Lernkurve mit den modernsten AI-Tools     Compensation: €18 – €22 per hour    • €18 – €22 per hour   Find more  English Speaking Jobs in Germany  on Arbeitnow",
+    "source": "Arbeitnow",
+    "published_at": 1790390412,
+    "work_mode": "",
+    "source_kind": "aggregator",
+    "source_attribution": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/"
+    },
+    "role_family": "TASK_MATCH",
+    "geo_class": "REMOTE_ITALY",
+    "blockers": [],
+    "score": 70,
+    "match_label": "DA_VALUTARE",
+    "why": [
+      "+ ruolo task_match",
+      "+ content creation",
+      "+ tiktok",
+      "+ performance",
+      "+ strumento capcut",
+      "+ strumento canva",
+      "+ remoto Italia"
+    ],
+    "gaps": [
+      "Seniorità non chiarissima"
+    ],
+    "verification": "PLAUSIBILE",
+    "active_status": "active",
+    "first_seen_at": "2026-09-26T12:12:43.383312+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
+    "canonical_source": "https://www.arbeitnow.com/jobs/companies/uplane/working-student-content-creation-remote-berlin-german-speaking-192180"
   },
   {
     "id": "7ba3087de0effd2f",
@@ -264,7 +302,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/HWd1smhf"
   },
   {
@@ -302,7 +340,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://bebee.com/it/jobs/social-media-manager-content-creator-ufficio-comunicazione-stranaidea-impresa-sociale-torino-piemont--t7xk-779611583"
   },
   {
@@ -340,7 +378,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-18T06:02:49.207464+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-mga4studio-mauro-bellora-giuliana-morisano-architetti-associati-4467207324"
   },
   {
@@ -378,7 +416,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-18T06:02:49.207464+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-back-office-at-cesare-quaranta-srl-4466070035"
   },
   {
@@ -416,7 +454,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-04T06:01:58.538524+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://carlorattiassociati.com/jobs"
   },
   {
@@ -452,7 +490,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-22T06:03:55.922302+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/m8WJQcow"
   },
   {
@@ -490,7 +528,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-digital-marketing-specialist-at-mfga-make-fashion-great-again-4448882236"
   },
   {
@@ -526,7 +564,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -561,7 +599,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-16T06:04:38.943656+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://accessiway.teamtailor.com"
   },
   {
@@ -598,7 +636,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/DnBCH5mb"
   },
   {
@@ -634,7 +672,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-08T06:04:00.554158+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/marketing-communication-specialist-at-lifenet-healthcare-4464349194"
   },
   {
@@ -669,7 +707,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:54:18.256485+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/social-media-manager-at-principi-adv-4434864500"
   },
   {
@@ -704,7 +742,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-08-29T16:58:42.735576+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/video-editor-%E2%80%94-full-remote-partita-iva-at-corposostenibile-4456915012"
   },
   {
@@ -739,7 +777,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/cmp/Clap-Adv-1/jobs"
   },
   {
@@ -774,7 +812,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-01T06:02:05.570747+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/q-content-creator-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -808,7 +846,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/q-stage-comunicazione-torino-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -842,7 +880,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-02T06:04:45.161958+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/B3yaDrUV"
   },
   {
@@ -876,7 +914,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-05T06:04:41.313227+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.indeed.com/q-comunicazione-junior-l-torino%2C-piemonte-offerte-lavoro.html"
   },
   {
@@ -910,7 +948,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-11T06:00:52.528380+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/talent-at-nam-studio-4465645385"
   },
   {
@@ -946,7 +984,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-19T06:03:46.371696+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://namstudio.typeform.com/to/xnI1xHgi"
   },
   {
@@ -981,7 +1019,7 @@
     "verification": "PLAUSIBILE",
     "active_status": "active",
     "first_seen_at": "2026-09-26T05:59:51.196886+00:00",
-    "last_seen_at": "2026-09-26T11:18:14.384158+00:00",
+    "last_seen_at": "2026-09-26T12:12:43.383312+00:00",
     "canonical_source": "https://it.linkedin.com/jobs/view/editor-video-at-nam-studio-4472052413"
   }
 ]
