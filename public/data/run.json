@@ -2,7 +2,7 @@
   "sources": {
     "Arbeitnow": {
       "ok": true,
-      "count": 325,
+      "count": 326,
       "requests": 1,
       "cache_used": false,
       "source_kind": "aggregator"
@@ -22,13 +22,13 @@
       "source_kind": "discovery"
     }
   },
-  "fetched": 464,
+  "fetched": 465,
   "rejected_irrelevant": 437,
   "rejected_expired": 0,
   "deduplicated": 0,
-  "published": 27,
+  "published": 28,
   "stale_data": false,
   "priority_kept": 8,
-  "generated_at": "2026-09-27T12:59:03.562986+00:00",
+  "generated_at": "2026-09-28T13:46:15.838712+00:00",
   "pipeline": "v2"
 }
