@@ -18,19 +18,19 @@
     },
     "Web discovery": {
       "ok": true,
-      "count": 49,
+      "count": 53,
       "requests": 1,
       "cache_used": false,
       "source_kind": "discovery"
     }
   },
-  "fetched": 448,
-  "rejected_irrelevant": 411,
+  "fetched": 452,
+  "rejected_irrelevant": 412,
   "rejected_expired": 0,
   "deduplicated": 0,
-  "published": 37,
+  "published": 40,
   "stale_data": false,
-  "priority_kept": 11,
-  "generated_at": "2026-10-25T12:32:45.292481+00:00",
+  "priority_kept": 13,
+  "generated_at": "2026-10-26T06:58:17.573187+00:00",
   "pipeline": "v2"
 }
