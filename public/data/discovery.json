@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:00:24+01:00",
+  "updated_at": "2026-11-02T08:07:18+01:00",
   "jobs": [
     {
       "title": "Video Editor, Video Maker, Social Media Manager",
@@ -640,6 +640,28 @@
       "work_mode": "onsite",
       "source_kind": "discovery",
       "source_url": "https://careers.publicisgroupe.com/jobs/180148?lang=it-IT"
+    },
+    {
+      "title": "Video Editor — candidature aperte",
+      "company": "B-Key MEDIA",
+      "url": "https://bkey-media.it/lavora-con-noi",
+      "location": "Remoto (Italia)",
+      "description": "Posizione Video Editor elencata tra le candidature aperte nella pagina Lavora con noi dell'agenzia B-Key MEDIA, specializzata in video verticali e creatività per TikTok Ads e TikTok Shop. La pagina conferma lavoro remoto e formazione; requisiti specifici, contratto e compenso non sono pubblicati. Candidatura tramite modulo della pagina ufficiale.",
+      "published_at": "",
+      "work_mode": "remote",
+      "source_kind": "discovery",
+      "source_url": "https://bkey-media.it/lavora-con-noi"
+    },
+    {
+      "title": "Content Creator — candidature aperte",
+      "company": "B-Key MEDIA",
+      "url": "https://bkey-media.it/lavora-con-noi",
+      "location": "Remoto (Italia)",
+      "description": "Posizione Content Creator elencata tra le candidature aperte nella pagina ufficiale di B-Key MEDIA. L'agenzia realizza contenuti video verticali per TikTok e gestisce creator e campagne per brand. La pagina indica lavoro remoto e formazione; mansioni dettagliate, retribuzione e contratto non specificati. Candidatura tramite modulo ufficiale.",
+      "published_at": "",
+      "work_mode": "remote",
+      "source_kind": "discovery",
+      "source_url": "https://bkey-media.it/lavora-con-noi"
     }
   ]
 }
