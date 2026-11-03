@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T08:07:18+01:00",
+  "updated_at": "2026-11-03T07:55:27+01:00",
   "jobs": [
     {
       "title": "Video Editor, Video Maker, Social Media Manager",
@@ -662,6 +662,17 @@
       "work_mode": "remote",
       "source_kind": "discovery",
       "source_url": "https://bkey-media.it/lavora-con-noi"
+    },
+    {
+      "title": "Live Streaming Operator — on-call / casual hours",
+      "company": "Deltatre",
+      "url": "https://www.deltatre.com/about/careers/open-positions/693481",
+      "location": "Torino (in sede)",
+      "description": "Gestione e controllo qualità di dirette streaming per eventi sportivi, risoluzione problemi tecnici e comunicazione con team/clienti. Formazione e affiancamento previsti; richiesta familiarità con streaming online e disponibilità per turni serali, notturni, weekend e con breve preavviso. Contratto a chiamata/ore occasionali; compenso non indicato.",
+      "published_at": "",
+      "work_mode": "onsite",
+      "source_kind": "discovery",
+      "source_url": "https://www.deltatre.com/about/careers/open-positions/693481"
     }
   ]
 }
