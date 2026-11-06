@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:55:27+01:00",
+  "updated_at": "2026-11-06T08:03:05+01:00",
   "jobs": [
     {
       "title": "Video Editor, Video Maker, Social Media Manager",
@@ -673,6 +673,28 @@
       "work_mode": "onsite",
       "source_kind": "discovery",
       "source_url": "https://www.deltatre.com/about/careers/open-positions/693481"
+    },
+    {
+      "title": "Digital Marketing — Apprendistato",
+      "company": "Più Sviluppo Srl",
+      "url": "https://it.indeed.com/cmp/Pi%C3%B9-Sviluppo-Srl-1",
+      "location": "Torino",
+      "description": "Apprendistato marketing e comunicazione: realizzazione Reel/video, piano editoriale, campagne social, landing page, copy SEO, analisi performance e utilizzo AI. Compenso indicato 900–1.100 €/mese; candidatura tramite pagina aziendale Indeed.",
+      "published_at": "2026-11-05",
+      "work_mode": "hybrid",
+      "source_kind": "discovery",
+      "source_url": "https://it.indeed.com/cmp/Pi%C3%B9-Sviluppo-Srl-1"
+    },
+    {
+      "title": "Press and Public Affairs Officer",
+      "company": "CRA-Carlo Ratti Associati",
+      "url": "https://carlorattiassociati.com/jobs/",
+      "location": "Torino",
+      "description": "Comunicazione e relazioni stampa su design, tecnologia e innovazione urbana: scrittura di testi giornalistici, campagne stampa, media kit, comunicazione con istituzioni e organizzatori. Italiano e inglese richiesti; interesse per AI, tecnologia, filosofia e politica esplicitamente valorizzato. Posizione pubblicata nella pagina ufficiale.",
+      "published_at": "2026-11-06",
+      "work_mode": "onsite",
+      "source_kind": "discovery",
+      "source_url": "https://carlorattiassociati.com/jobs/"
     }
   ]
 }
